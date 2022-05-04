@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Nathalia Schwertner
 
 - 🌱 Estudando Java
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/naschwertner">
