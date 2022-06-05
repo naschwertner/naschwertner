@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Nathalia Schwertner
 
-- 🌱 Estudando Java
-
 <div align="center">
   <a href="https://github.com/naschwertner">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=naschwertner&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
